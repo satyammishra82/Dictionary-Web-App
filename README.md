@@ -1,5 +1,3 @@
-Sure, let's break down the details of the Dictionary Web App project that uses HTML, CSS, and PHP to provide users with an efficient and user-friendly experience.
-
 ## Overview
 
 The Dictionary Web App is a web-based application designed to provide users with definitions of words. The app is developed using HTML for structure, CSS for styling, and PHP for server-side logic. The primary goal is to create an intuitive, responsive, and efficient platform for users to search for and view word definitions.
